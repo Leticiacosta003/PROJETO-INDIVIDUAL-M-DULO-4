@@ -27,11 +27,11 @@ O professor ensina disciplina, que possui turmas que contem turmas e cursos no c
 
 MODELO CONCEITUAL.
 
-![texto](../imagens/modelo..conceitual.png)
-![texto](../imagens/modelo..conceitual.png)
+![texto](./imagens/modelo..conceitual.png)
+![texto](./imagens/modelo..conceitual.png)
 
 
 
 MODELO LÓGICO
 
-![texto](/imagens/modelo..logico.png)
+![texto](./imagens/modelo..logico.png)
