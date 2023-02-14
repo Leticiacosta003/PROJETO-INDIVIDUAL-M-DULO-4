@@ -1,5 +1,5 @@
 
-<b><big><big><big> PROJETO INDIVIDUAL MODULO 4 </b></big></big></big>
+[size=30][fa=check-circle /] PROJETO INDIVIDUAL MODULO 4 [/size]
 
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
