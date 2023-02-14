@@ -28,7 +28,6 @@ O professor ensina disciplina, que possui turmas que contem turmas e cursos no c
 MODELO CONCEITUAL.
 
 ![texto](./modelo..conceitual.png)
-![texto](./modelo..conceitual.png)
 
 
 
