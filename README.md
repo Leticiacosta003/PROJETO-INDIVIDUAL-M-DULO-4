@@ -1,7 +1,7 @@
 
 
 
-<b><big><big><big>{c:red} PROJETO INDIVIDUAL MODULO 4 {/c} </b></big></big></big>
+<b><big><big><big> PROJETO INDIVIDUAL MODULO 4 </b></big></big></big>
 
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
@@ -27,7 +27,7 @@ O professor ensina disciplina, que possui turmas que contem turmas e cursos no c
 
 MODELO CONCEITUAL.
 
-{c:red}Projeto.{/c}
+
 
 ![texto](./modelo..conceitual.png)
 
