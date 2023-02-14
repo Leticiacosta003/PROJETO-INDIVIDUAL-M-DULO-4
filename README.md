@@ -26,9 +26,11 @@ Disciplina: Cod.Disciplina, ementa, Conteudo programação, Cod.Professor.
 O professor ensina disciplina, que possui turmas que contem turmas e cursos no curso que tem alunos.
 
 MODELO CONCEITUAL
-![ texto](/imagens/modelo..conceitual.png) 
+
+![texto](/imagens/modelo..conceitual.png)
 
 
 
 MODELO LÓGICO
+
 ![texto](/imagens/modelo..logico.png)
